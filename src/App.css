@@ -1,0 +1,17 @@
+
+*{
+  box-sizing: border-box;
+  margin:0px ;
+  padding:0px;
+font-family: 'Montserrat', sans-serif;
+}
+
+.App {
+  background-color: rgb(213, 228, 255);
+  background: rgb(213, 228, 255);
+  justify-content: center;
+}
+.linechart {
+  width: 600px;
+  float: bottom;
+}
